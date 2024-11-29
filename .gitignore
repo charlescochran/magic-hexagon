@@ -1,0 +1,5 @@
+media/
+video/*
+!video/thumbnail.png
+*pycache*
+script*.md
